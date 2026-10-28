@@ -1,0 +1,13 @@
+store_id,store_name,city,region,price_tier,location_type,competitor_density,seats,delivery_share,income_index,footfall_index,opened_year,commission_rate
+S01,Koramangala,Bengaluru,South,Tier 1,High Street,14,60,0.55,1.15,1.2,2018,0.2
+S02,Whitefield ITPL,Bengaluru,South,Tier 1,Office / IT Park,8,80,0.35,1.25,1.1,2019,0.2
+S03,Lower Parel Mall,Mumbai,West,Tier 1,Mall,11,70,0.22,1.35,1.3,2017,0.24
+S04,Andheri West,Mumbai,West,Tier 1,Residential,16,40,0.62,1.1,1.0,2016,0.2
+S05,Connaught Place,Delhi,North,Tier 1,High Street,18,90,0.4,1.2,1.45,2015,0.2
+S06,Cyber City,Gurugram,North,Tier 1,Office / IT Park,12,75,0.3,1.4,1.15,2019,0.24
+S07,Viman Nagar,Pune,West,Tier 1,Residential,9,45,0.58,1.05,0.85,2020,0.24
+S08,FC Road,Pune,West,Tier 1,College Area,13,55,0.45,0.8,1.05,2018,0.2
+S09,MI Road,Jaipur,North,Tier 2,High Street,7,60,0.4,0.9,0.8,2021,0.2
+S10,Phoenix Palassio,Lucknow,North,Tier 2,Mall,6,65,0.25,0.95,0.9,2022,0.24
+S11,Lonavala Food Plaza,Lonavala,West,Highway,Highway,3,110,0.04,1.0,0.95,2019,0.2
+S12,RGIA Airport T1,Hyderabad,South,Airport,Airport,2,50,0.0,1.5,1.0,2021,0.0

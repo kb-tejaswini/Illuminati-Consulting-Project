@@ -1,0 +1,15 @@
+product_id,product_name,category,diet,base_list_price,food_cost_pct,packaging_cost_delivery,popularity
+P01,Classic Veg Burger,Burgers,Veg,129,0.3,10,1.0
+P02,Crispy Chicken Burger,Burgers,Non-veg,179,0.34,10,0.85
+P03,Paneer Tikka Wrap,Wraps,Veg,169,0.32,9,0.55
+P04,Chicken Kathi Wrap,Wraps,Non-veg,189,0.35,9,0.5
+P05,Margherita Pizza (Personal),Pizza,Veg,199,0.29,14,0.45
+P06,Peri-Peri Chicken Pizza,Pizza,Non-veg,279,0.33,14,0.35
+P07,Salted Fries (Regular),Sides,Veg,89,0.25,6,1.1
+P08,Peri-Peri Fries,Sides,Veg,109,0.25,6,0.7
+P09,Cold Coffee,Beverages,Veg,119,0.22,7,0.8
+P10,Masala Lemonade,Beverages,Veg,79,0.18,7,0.75
+P11,Brownie Sundae,Desserts,Veg,129,0.3,8,0.4
+P12,Veg Meal Combo,Combos,Veg,249,0.31,18,0.7
+P13,Chicken Meal Combo,Combos,Non-veg,299,0.34,18,0.65
+P14,Family Bucket (serves 4),Combos,Non-veg,699,0.37,30,0.18

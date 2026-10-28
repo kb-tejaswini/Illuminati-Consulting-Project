@@ -1,0 +1,289 @@
+store_id,product_id,effective_week,event_type,note
+S01,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S01,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P10,2025-04-07,Price test,+10% for 8 weeks then reverted
+S02,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S02,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S04,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S05,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S06,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S07,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S08,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S09,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S10,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S11,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P01,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P02,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P03,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P04,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P05,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P06,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P07,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P08,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P09,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P10,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P11,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P12,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P13,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S12,P14,2025-04-07,Annual price revision,Chain-wide FY26 menu revision
+S03,P02,2025-04-14,Price test,-7% for 8 weeks then reverted
+S06,P10,2025-04-14,Price test,+8% for 8 weeks then reverted
+S02,P04,2025-04-21,Price test,-8% for 8 weeks then reverted
+S01,P02,2025-05-19,Price test,+7% for 8 weeks then reverted
+S10,P06,2025-06-23,Price test,+8% for 8 weeks then reverted
+S05,P04,2025-07-07,Price test,-6% for 8 weeks then reverted
+S12,P07,2025-07-07,Price test,-7% for 8 weeks then reverted
+S06,P01,2025-07-28,Price test,-10% for 8 weeks then reverted
+S01,P07,2025-08-04,Price test,+7% for 8 weeks then reverted
+S07,P14,2025-08-04,Price test,+7% for 8 weeks then reverted
+S11,P08,2025-08-11,Price test,+6% for 8 weeks then reverted
+S12,P02,2025-09-08,Price test,+10% for 8 weeks then reverted
+S08,P14,2025-09-22,Price test,+10% for 8 weeks then reverted
+S04,P01,2025-11-03,Price test,+7% for 8 weeks then reverted
+S05,P01,2025-11-17,Price test,-9% for 8 weeks then reverted
+S01,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S01,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S01,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S01,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S01,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S01,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S01,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S01,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S02,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S03,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S04,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S05,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S06,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S08,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S09,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S10,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S11,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P01,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P02,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P04,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P05,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P06,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P12,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P13,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S12,P14,2026-01-05,Menu revision,Cost-led revision on cheese / chicken items
+S07,P09,2026-02-09,Price test,+9% for 8 weeks then reverted
+S09,P13,2026-03-09,Price test,-9% for 8 weeks then reverted
+S09,P07,2026-03-16,Price test,-9% for 8 weeks then reverted
+S03,P02,2026-03-30,Price test,-9% for 8 weeks then reverted
+S10,P04,2026-03-30,Price test,+9% for 8 weeks then reverted
+S11,P07,2026-05-04,Price test,-8% for 8 weeks then reverted
+S08,P06,2026-06-01,Price test,+9% for 8 weeks then reverted
+S04,P04,2026-06-15,Price test,-9% for 8 weeks then reverted

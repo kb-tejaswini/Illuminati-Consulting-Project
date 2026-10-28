@@ -1,0 +1,35 @@
+store_id,competitor_name,distance_km,positioning
+S01,Fry Society,1.5,Value
+S01,Urban Tadka,0.5,Mid
+S01,Brew Lane,0.9,Value
+S02,BurgerJunction,1.2,Mid
+S02,WrapStreet,1.0,Value
+S02,Pizzeria Uno,0.6,Value
+S03,Fry Society,1.5,Value
+S03,BurgerJunction,1.8,Premium
+S03,Brew Lane,1.3,Mid
+S04,Urban Tadka,0.2,Premium
+S04,BurgerJunction,1.4,Premium
+S04,Crust Collective,1.2,Value
+S05,BurgerJunction,0.5,Mid
+S05,Fry Society,0.8,Mid
+S05,Urban Tadka,0.8,Value
+S06,WrapStreet,0.4,Premium
+S06,QuickBite,1.7,Mid
+S06,Brew Lane,1.3,Value
+S07,Brew Lane,0.4,Mid
+S07,QuickBite,1.7,Value
+S07,Chai & Co.,0.3,Value
+S08,QuickBite,0.3,Value
+S08,Fry Society,0.3,Premium
+S08,BurgerJunction,1.3,Mid
+S09,Pizzeria Uno,1.1,Mid
+S09,Crust Collective,0.5,Premium
+S09,Urban Tadka,0.5,Premium
+S10,Pizzeria Uno,0.3,Mid
+S10,QuickBite,0.9,Mid
+S10,Chai & Co.,0.4,Mid
+S11,Crust Collective,0.4,Value
+S11,Pizzeria Uno,0.6,Premium
+S12,Chai & Co.,0.8,Mid
+S12,WrapStreet,0.9,Value
