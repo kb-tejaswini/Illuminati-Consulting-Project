@@ -117,11 +117,7 @@ Otherwise the advice is to hold. The output names the constraint that binds and 
   because app commission grows with price.
 - If competitors **fully match** every move, the plan still adds ₹34k a week.
 
-## Using your own data
 
-Replace the CSVs in `data/raw/` with the same columns (see `src/pricing/data.py::REQUIRED`), remove
-`data/validation/ground_truth_elasticities.csv`, and run `pricing train`. To regenerate the synthetic data, run
-`python scripts/generate_data.py`.
 
 ## Operating it
 
@@ -135,25 +131,4 @@ Replace the CSVs in `data/raw/` with the same columns (see `src/pricing/data.py:
   rather than a forecast, long-run brand effects are not captured, and prices outside the historical range are
   extrapolations (flagged by the confidence label).
 
-## Layout
 
-```
-config/config.yaml        guardrails, CV and sensitivity settings
-data/raw/                 weekly_sales, stores, products, competitors, calendar, weather, price_events
-data/validation/          ground-truth elasticities (synthetic data only)
-src/pricing/              data · models · validation · economics · optimizer · sensitivity · pipeline · service · report · cli
-api/main.py               FastAPI service
-app/streamlit_app.py      dashboard
-tests/                    pytest suite
-artifacts/                trained model state and all analysis tables (CSV)
-reports/                  insights_report.html
-prototype/                browser prototype (template + build script + JS/Python parity check)
-notebooks/                EDA notebook and script (+ Excel copy of the data)
-docs/RESEARCH_NOTES.md    decisions, results, research roadmap, references
-CLAUDE.md                 guide for Claude Code (setup, code map, conventions, backlog)
-.claude/commands/         /verify, /research-next, /explain-recommendation
-scripts/generate_data.py  synthetic data generator
-```
-
-**Working with Claude Code:** open this folder in Claude Code. `CLAUDE.md` loads automatically. Try `/verify`, then
-`/research-next R1`.
